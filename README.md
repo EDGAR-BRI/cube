@@ -6,6 +6,7 @@ Small TypeScript Rubik's Cube library with:
 - algorithm parsing/inversion helpers
 - 3BLD edge/corner path helpers
 - built-in letter schemes (`SPEFFZ`, `SPEFCZ`, `CHS`)
+- it's based on https://github.com/ldez/cubejs but rewritten to TypeScript with custom logic in (3x3 blind solver mainly) and custom additional unit tests
 
 ## Install
 
