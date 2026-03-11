@@ -1,6 +1,6 @@
 {
   "name": "@memodungeon/cube",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rubik's Cube model and 3BLD helper utilities in TypeScript",
   "license": "MIT",
   "type": "module",
